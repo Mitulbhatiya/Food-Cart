@@ -1,0 +1,136 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Chilli Soup",
+        "price1": 270,
+        "price2": 300,
+        "image": {
+          "fields": {
+            "file": { "url": "../image/c1.jpg" }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "2"
+      },
+      "fields": {
+        "title": "Noddles",
+        "price1": 210,
+        "price2": 270,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "../image/c2.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "3"
+      },
+      "fields": {
+        "title": "Chinese Role",
+        "price1": 120,
+        "price2": 150,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "../image/c3.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "4"
+      },
+      "fields": {
+        "title": "Chinese Rice",
+        "price1": 180,
+        "price2": 200,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "../image/c4.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "5"
+      },
+      "fields": {
+        "title": "Veg. Crispy",
+        "price1": 366,
+        "price2": 300,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "../image/c5.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "6"
+      },
+      "fields": {
+        "title": "Veg. Momos",
+        "price1": 299,
+        "price2": 330,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "../image/c6.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "7"
+      },
+      "fields": {
+        "title": "Veg. Frency",
+        "price1": 290,
+        "price2": 325,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "../image/c7.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "8"
+      },
+      "fields": {
+        "title": "Veg. Manchurian",
+        "price1": 211,
+        "price2": 280,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "../image/c8.jpg"
+            }
+          }
+        }
+      }
+    }
+  ]
+}
